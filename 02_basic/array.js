@@ -8,13 +8,26 @@ const myArr2 = new Array(1, 2, 3, 4)
 
 // Array methods
 
-// myArr.push(6)
+/*
+ myArr.push(6)
+   Add Value  the last value of the array 
+ */
 // myArr.push(7)
-// myArr.pop()
+/* 
+myArr.pop()
+      Remove Value the last value of the array 
 
-// myArr.unshift(9)
-// myArr.shift()
+*/
+/* 
+myArr.unshift(9) 
+        Add Value the first value of the array 
 
+*/
+/*
+ myArr.shift()
+         Remove Value the first value of the array 
+
+*/
 // console.log(myArr.includes(9));
 // console.log(myArr.indexOf(3));
 
